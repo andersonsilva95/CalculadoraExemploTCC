@@ -1,3 +1,3 @@
 # CalculadoraExemploTCC
 
-![Screenshot](https://imgur.com/8Z1koVP)
+![Image description](https://imgur.com/8Z1koVP)
