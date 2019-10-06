@@ -1,4 +1,3 @@
 # CalculadoraExemploTCC
 
- https://imgur.com/8Z1koVP
- 
+![Screenshot](https://imgur.com/8Z1koVP)
